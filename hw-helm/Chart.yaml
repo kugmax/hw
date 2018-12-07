@@ -1,0 +1,10 @@
+apiVersion: v1
+appVersion: "1.0"
+description: A hello world spring boot app with helm
+name: hw-helm
+version: 0.1.1
+keywords:
+  - kugmax
+  - hellow-world
+sources:
+  - https://gitlab.lohika.com/mkuhatov/hw
